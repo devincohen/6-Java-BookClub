@@ -1,0 +1,15 @@
+.centered{
+	margin: auto;
+	text-align: center;
+}
+
+.horizontal{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.error {
+	color: red;	
+}
